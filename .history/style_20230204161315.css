@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    min-height: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.calculator-container {
+    display: flex;
+}
